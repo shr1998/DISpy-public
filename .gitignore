@@ -1,0 +1,63 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+
+# Virtual environments and local dependency caches
+.venv/
+venv/
+env/
+.pip_cache/
+.capture_tools/
+.build_tools/
+
+# IDE and local workspace files
+.idea/
+.vscode/
+*.code-workspace
+
+# Build outputs
+build/
+dist/
+pyi_build/
+pyi_dist/
+*.exe
+*.dll
+*.pyd
+
+# Runtime outputs and generated figures
+output/
+software_screenshots/
+chat_outputs/
+tmp/
+.tmp/
+*.pdf
+*.png
+*.jpg
+*.jpeg
+
+# Scientific data and model artifacts
+*.h5
+*.npy
+*.npz
+*.pkl
+*.pth
+*.dat
+models/*
+!models/README.md
+
+# Local licenses and keys
+*.lic
+*private_key*
+private_key.pem
+new_license.lic
+license.lic
+
+# Manuscript/review working files
+*.docx
+*_render/
+DISpy_docx_unpacked/
+.codex_doc_review*/
+deliverables/
