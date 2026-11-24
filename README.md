@@ -2,6 +2,7 @@
 
 DISpy is a PyQt5 desktop application for ambient-noise cross-correlation, surface-wave dispersion imaging, automatic dispersion picking, and shear-wave velocity inversion. The software is designed for DAS / dense-array surface-wave processing workflows and supports GPU acceleration for several computation steps.
 
+Reference data can be found at the following address：doi: 10.17632/6stx9wytt9.1
 ## Features
 
 - Cross-correlation data loading and visualization
